@@ -1,7 +1,7 @@
 [![MasterHead](https://wallpaperaccess.com/google-dinosaur)]
 <h1 align="center">Hi 👋, I'm @divyanshsagar front-end, web developer.</h1>
 <h3 align="center">I’m interested in photography & programming.</h3>
-<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=6c09b9525fb91a1d654e495db911a0a00957304735916e63&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshsagar&label=Profile%20views&color=0e75b6&style=flat" alt="divyanshsagar" /> </p>
 

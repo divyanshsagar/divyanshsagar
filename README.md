@@ -1,4 +1,4 @@
-[MasterHead](https://1.bp.blogspot.com/-7A4Wynwl.sM.. )](https://wallpaperaccess.com/google-dinosaur)
+[![MasterHead](https://wallpaperaccess.com/google-dinosaur)]
 <h1 align="center">Hi 👋, I'm @divyanshsagar front-end, web developer.</h1>
 <h3 align="center">I’m interested in photography & programming.</h3>
 <img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">

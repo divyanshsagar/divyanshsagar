@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpaperaccess.com/google-dinosaur)]
+![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1urwdhTEpceYgGcaWhlpDu-HKC5iMeDvaiQ&usqp=CAU)
 <h1 align="center">Hi 👋, I'm @divyanshsagar front-end, web developer.</h1>
 <h3 align="center">I’m interested in photography & programming.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=6c09b9525fb91a1d654e495db911a0a00957304735916e63&rid=giphy.gif&ct=g">

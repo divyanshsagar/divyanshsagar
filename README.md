@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a portfolio website.<br>👯 I’m looking to collaborate on DSA and front-end web development projects.<br>🤝 I’m looking for help with a portfolio website.<br>🌱 I’m currently learning DSA and front-end web development.<br>💬 Ask me about C, C++, HTML, CSS and JS.<br>⚡ Fun fact I am interested in photography.<br>
-
+🔭 I’m currently working on a portfolio website.<br>👯 I’m looking to collaborate on DSA and front-end web development projects.<br>🤝 I’m looking for help with a portfolio website.<br>🌱 I’m currently learning DSA and front-end web development.<br>💬 Ask me about C, C++, HTML, CSS and JS.<br>⚡ Fun fact I am interested in photography.<br><img src="https://media3.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47r8j8j60bow2cxm14cewqq7l2djbtzyiy6ceepegq&rid=giphy.gif&ct=g" width="250px"/><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/plainphoto.eth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyanshsagar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@divyanshsagar74) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/DivyanshSagar0) 
